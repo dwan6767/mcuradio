@@ -3,3 +3,5 @@ then it outputs audio.raw (detail in comments)
 although my system can play audio.raw using aplay driver for different systems
 use ffmpeg to convert audio.raw to any format here .wav (audio.raw is a over
 written file)
+
+examples include (disturbance due to tesla coil , normal disturbance , and my "heart will go on song" 
