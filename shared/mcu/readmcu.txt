@@ -1,0 +1,9 @@
+ here  i have done few basic tests one for analog data sending using carrier+pwm 
+mode 
+1)get data from analog pin then trasmit the data using timer2 interrupts detailed
+comment in code 
+2)simple morse code sending
+
+in receiver 
+simple data get and transmit it to pc 
+
