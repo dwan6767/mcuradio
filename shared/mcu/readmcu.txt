@@ -6,5 +6,6 @@ comment in code
 
 in receiver 
 simple data get and transmit it to pc 
-for receiver currently to make setup short i have usedd an audio amplifier , which is pretty bad (for higher frequenc
+for receiver currently to make setup short i have used an audio amplifier , which is pretty bad (for higher frequency op amp bandwidth is limited)
+but to keep tesing setup short this will be useful, later normal wire 
 
